@@ -1,8 +1,8 @@
 Tipgui
 
-<a href="http://es.tinypic.com?ref=16aw20z" target="_blank"><img src="http://i64.tinypic.com/16aw20z.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+![1- marca](https://user-images.githubusercontent.com/32301390/37880684-c1762e66-308c-11e8-9f1f-d97232493e8f.jpg)
 
-<a href="http://es.tinypic.com?ref=34rdrmp" target="_blank"><img src="http://i68.tinypic.com/34rdrmp.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
 
 <a href="http://es.tinypic.com?ref=2qsckfo" target="_blank"><img src="http://i65.tinypic.com/2qsckfo.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
